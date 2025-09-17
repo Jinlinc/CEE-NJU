@@ -18,7 +18,7 @@ Climate change is drastically reshaping species distributions and populations, w
 
 {% capture text %}
 
-The eco-evolutionary dynamics of biological communities driven by extreme climatic events
+Extreme events open up a transient stage where evolutionary and ecological processes happen at a fast pace, interacting with each other to decide how the post-extreme communities will rewire. I am using manipulative experiments (semi-field) to explore if and how extreme temperature events will increase/decrease the resilience of biological communities to increasingly variable climates in the future.
 
 {% endcapture %}
 
