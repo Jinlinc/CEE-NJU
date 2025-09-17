@@ -1,19 +1,19 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Community Ecology and Evolution Lab
+subtitle: NanJing University, China
+description: Climate change is drastically reshaping species distributions and populations, with cascading ecological impacts already disrupting human societies—and intensifying. Community responses are often not gradual, their nonlinear nature challenge traditional methods to predict the vulnerability and sensitivity of biodiversity to climate change. Our research group focuses on the empirical research conducted in the field and lab, in combination with molecular techniques and mathematical modelling. Using invertebrate systems (especially fruit fly – parasitoid communities), we investigate (1) the eco-evolutionary dynamics of biological communities driven by extreme climatic events, (2) mechanisms regulating coexistence and numerical dynamics within species interaction networks, (3) insect distribution and their ecological functions under global changes.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  email: jlchen@nju.edu.cn
+  orcid: xxxx
+  google-scholar: xxxx
+  github: jinlinc
+  twitter: xxxx
+  youtube: xxxx
 
 ### jekyll settings
 
