@@ -25,7 +25,7 @@ The eco-evolutionary dynamics of biological communities driven by extreme climat
 {%
   include feature.html
   image="images/photo.jpg"
-  title="Our Research"
+  title="Eco-evolutionary dynamics in extreme events"
   text=text
 %}
 
