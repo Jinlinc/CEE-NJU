@@ -2,12 +2,11 @@
 title: News
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Celebrate big and small!
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
-Site to be constructed...
 
 {% include section.html %}
 
