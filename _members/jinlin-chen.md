@@ -3,7 +3,6 @@ name: Jinlin Chen (陈金琳)
 image: images/memberImage/CJL.jpg
 role: principal-investigator
 aliases:
-  - Jinlin Chen
   - J. Chen
 links:
   home-page: https://life.nju.edu.cn/cjl
