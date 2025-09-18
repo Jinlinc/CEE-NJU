@@ -2,7 +2,7 @@
 name: Jamal Holle
 image: images/memberImage/JHOLLE.jpg
 description: Visiting researcher
-role: visitor
+role: postdoc
 links:
   email: 
   twitter: 

@@ -2,7 +2,7 @@
 name: Jie Hui (惠洁)
 image: images/memberImage/HUIJIE.jpg
 description: Master 2025
-role: master
+role: phd
 group: alum
 links:
   github: 

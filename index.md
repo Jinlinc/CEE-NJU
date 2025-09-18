@@ -25,3 +25,15 @@ Extreme events open up a transient stage where evolutionary and ecological proce
   title="Eco-evolutionary dynamics in extreme events"
   text=text
 %}
+
+{% capture text %}
+
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  title="Species interaction networks"
+  text=text
+%}
