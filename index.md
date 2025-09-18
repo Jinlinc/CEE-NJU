@@ -7,7 +7,7 @@ Climate change is drastically reshaping species distributions and populations, w
 
 My own PhD work relied on a highly versatile experimental system —— rainforest <i>Drosophila</i> and their natural enemies, parasitoid wasps. This multi-trophic system with multiple hosts and parasitoid species has empowered me and my colleagues to study species range, ecological networks, direct and indirect biological effects of climate change, species coexistence and evolution! Now I carry on such work and beyond (from molecular pathways to community resilience) as an assistant Professor at NanJing University. If you would like to learn more about our projects and the study system, please feel free to contact us directly!
 
-<img src="images/main.jpg" alt="Research overview" width="500">
+<img src="images/main.jpg" alt="Research overview" width="700" style="display: block; margin: auto;">
 
 {% include section.html %}
 
