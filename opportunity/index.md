@@ -11,13 +11,13 @@ We welcome prospective students (undergraduates, Master's and PhD) to apply by s
 
 {%
   include button.html
-  type="email"
+  type="email me :)"
   text="jlchen(AT)nju.edu.cn"
   link="jlchen@nju.edu.cn"
 %}
 {%
   include button.html
-  type="address"
+  type="University website"
   text="Nanjing University, China"
-  link="https://life.nju.edu.cn/"
+  link="https://www.nju.edu.cn/en/"
 %}

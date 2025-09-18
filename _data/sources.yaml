@@ -1,4 +1,18 @@
-- id: doi:10.1111/ele.70087
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1111/1365-2656.70112
+  image: /images/paperImage/transgen1.jpg
 
+- id: doi:10.1111/ele.70087
+  image: /images/paperImage/elegens.jpg
+  
+- id: doi:10.1002/ecm.1597
+  image: /images/paperImage/tpc.jpg
+
+- id: doi:10.1111/gcb.16937
+  image: /images/paperImage/commCage.jpg
+
+- id: doi:10.1111/1365-2656.13534
+  image: /images/paperImage/coexistence.png
+  
+- id: doi:10.7717/peerj.5622
+  image: /images/paperImage/wulingshan.jpg
 
