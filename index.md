@@ -9,6 +9,7 @@ My own PhD work relied on a highly versatile experimental system —— rainfore
 
 <img src="images/main.jpg" alt="Research overview" width="700" style="display: block; margin: auto;">
 
+<!---
 {% include section.html %}
 
 ## Research Topics
@@ -37,3 +38,4 @@ Extreme events open up a transient stage where evolutionary and ecological proce
   title="Species interaction networks"
   text=text
 %}
+--->

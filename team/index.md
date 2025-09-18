@@ -16,6 +16,7 @@ nav:
 
 三人行，必有吾师。
 
+<!---
 {% include section.html %}
 
 {% capture content %}
@@ -27,3 +28,4 @@ nav:
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+--->
