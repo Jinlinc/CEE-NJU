@@ -1,0 +1,88 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1111/1365-2656.70112
+  title: "Transgenerational effects increase the vulnerability of a host\u2013parasitoid\
+    \ system to rising temperatures"
+  authors:
+  - Natalie L. Bright
+  - Jinlin Chen
+  - J. Christopher D. Terry
+  publisher: Journal of Animal Ecology
+  date: '2025-08-12'
+  link: https://doi.org/g93xz9
+  image: /images/paperImage/transgen1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/ele.70087
+  title: Warming During Different Life Stages has Distinct Impacts on Host Resistance
+    Ecology and Evolution
+  authors:
+  - Jingdi Li
+  - Cameron A. Smith
+  - Jinlin Chen
+  - Kieran A. Bates
+  - Kayla C. King
+  publisher: Ecology Letters
+  date: '2025-02-01'
+  link: https://doi.org/g93x2f
+  image: /images/paperImage/elegens.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ecm.1597
+  title: Limits to species distributions on tropical mountains shift from high temperature
+    to competition as elevation increases
+  authors:
+  - Jinlin Chen
+  - Owen T. Lewis
+  publisher: Ecological Monographs
+  date: '2023-12-29'
+  link: https://doi.org/g9hhzg
+  image: /images/paperImage/tpc.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/gcb.16937
+  title: "Experimental heatwaves facilitate invasion and alter species interactions\
+    \ and composition in a tropical host\u2010parasitoid community"
+  authors:
+  - Jinlin Chen
+  - Owen T. Lewis
+  publisher: Global Change Biology
+  date: '2023-09-21'
+  link: https://doi.org/gzppqk
+  image: /images/paperImage/commCage.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/1365-2656.13534
+  title: Natural enemies have inconsistent impacts on the coexistence of competing
+    species
+  authors:
+  - J. Christopher D. Terry
+  - Jinlin Chen
+  - Owen T. Lewis
+  publisher: Journal of Animal Ecology
+  date: '2021-06-03'
+  link: https://doi.org/gj4psr
+  image: /images/paperImage/coexistence.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7717/peerj.5622
+  title: Gap analysis and implications for seasonal management on a local scale
+  authors:
+  - Li Yang
+  - Baofeng Zhang
+  - Xinrui Wang
+  - Yueheng Ren
+  - Jinlin Chen
+  - Chao Zhang
+  - Yongpeng Xia
+  - Yuankun Li
+  - Jianguo Sun
+  - Jiangang Guo
+  - Weijia Wang
+  - XiaoFeng Luan
+  publisher: PeerJ
+  date: '2018-09-20'
+  link: https://doi.org/gfbqf8
+  image: /images/paperImage/wulingshan.jpg
+  plugin: sources.py
+  file: sources.yaml
