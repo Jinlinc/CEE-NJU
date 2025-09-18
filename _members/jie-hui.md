@@ -1,7 +1,7 @@
 ---
 name: Jie Hui (惠洁)
-image: _members/memberImage/HUIJIE.jpg
-description: master 2025
+image: images/memberImage/HUIJIE.jpg
+description: Master 2025
 role: master
 group: alum
 links:

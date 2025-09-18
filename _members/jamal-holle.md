@@ -1,7 +1,7 @@
 ---
 name: Jamal Holle
-image: _members/memberImage/JHOLLE.jpg
-description: collaborator and visiting researcher
+image: images/memberImage/JHOLLE.jpg
+description: Visiting researcher
 role: visitor
 links:
   email: 
