@@ -13,10 +13,10 @@ Are you concerned about ongoing biodiversity loss (especially among the small cr
 
 Do you want to conduct cross-boundary ecological research that integrate various biological levels, from gene to community, to understand how biological systems respond to disturbance?  
 
-We warmly welcome prospective students at all levels (undergraduates, Master's and PhD) to contact me for opportunities about graduate studies (Master and PhD) and visiting studentship. Please send me your CV and a brief personal statement (outlining your research interests, motivations, and relevant background). We are also actively recruiting a lab manager and postdocs—please contact me for details (jlchen(AT)nju.edu.cn). 
+We warmly welcome prospective students at all levels to contact me for opportunities about graduate studies (Master and PhD) and visiting studentship. Please send me your CV and a brief personal statement (outlining your research interests, motivations, and relevant background). We are also actively recruiting research assistants and postdocs—please contact me for details (jlchen(AT)nju.edu.cn). 
 
 Your sincerely,
-
+<br>
 Jinlin Chen (she/her)
 
 
