@@ -9,33 +9,3 @@ My own PhD work relied on a highly versatile experimental system —— rainfore
 
 <img src="images/main.jpg" alt="Research overview" width="700" style="display: block; margin: auto;">
 
-<!---
-{% include section.html %}
-
-## Research Topics
-
-{% capture text %}
-
-Extreme events open up a transient stage where evolutionary and ecological processes happen at a fast pace, interacting with each other to decide how the post-extreme communities will rewire. I am using manipulative experiments (semi-field) to explore if and how extreme temperature events will increase/decrease the resilience of biological communities to increasingly variable climates in the future.
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  title="Eco-evolutionary dynamics in extreme events"
-  text=text
-%}
-
-{% capture text %}
-
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  title="Species interaction networks"
-  text=text
-%}
---->
