@@ -7,6 +7,7 @@ aliases:
 links:
   home-page: https://life.nju.edu.cn/cjl
   orcid: 0000-0002-8435-0897
+  github: github.com/Jinlinc
 ---
 
 I am a community ecologist who is also passionate about nature conservation, sustainability, and environmental justice. I am interested in studying population dynamics, species interactions and the impact of anthropogenic activities on ecological processes and functioning.

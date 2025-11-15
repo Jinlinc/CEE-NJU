@@ -5,7 +5,7 @@ description: Alumni
 role: undergrad
 group: alum
 links:
-  github: 
+
 ---
 
 I conducted a two-month research project at CEE lab during the hot and humid summer of 2025 in Nanjing. I invented an easy and standardized way to evaluate the strength of species interactions (competition, parasitism and predation) and used it to understand the not-subtle difference that micro-climate had on species interactions.

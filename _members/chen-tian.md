@@ -4,7 +4,7 @@ image: images/memberImage/TIANCHEN.jpg
 description: Master 2026
 role: phd
 links:
-  github: 
+
 ---
 
 I am currently conducting undergraduate research project at CEE lab and will begin my Master degree study in Autumn 2026.

@@ -5,7 +5,7 @@ description: Master 2025
 role: phd
 group: alum
 links:
-  github: 
+
 ---
 
 Jie is a Master student that just started! Come back for more updates!
