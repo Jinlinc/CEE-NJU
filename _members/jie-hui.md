@@ -7,4 +7,4 @@ links:
 
 ---
 
-Jie is a Master student that just started! Come back for more updates!
+Jie is a Master student that just started! Come back for more updates in the future!

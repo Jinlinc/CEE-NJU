@@ -14,11 +14,11 @@ I am a community ecologist who is also passionate about nature conservation, sus
 
 2025-04 - present，Nanjing University, Tenure-track Assistant Professor
 <br>
-2023-01 - 2024-12, University of Oxford,D epartment of Biology, Postdoc, with Prof. Owen Lewis
+2023-01 - 2024-12, University of Oxford, Department of Biology, Postdoc, with Prof. Owen Lewis
 <br>
 2018-10 - 2022-12, University of Oxford, Zoology, PhD, with Prof. Owen Lewis
 <br>
 2013-09 - 2018-07, Peking University, Biological Sciences, Bachelor, with Prof. Yao Meng
 
-I love backcountry hiking and many kinds of sports. Volleyball and Table Tennis are what I have been doing the longest and most frequent. I am also keen on learning new sports, such as climbing, surfing and surf skates 🤙! 
+I love backcountry hiking and many kinds of sports. Volleyball and Table Tennis are what I have been doing the longest. I am also keen on learning new sports, such as climbing, surfing and surf skates 🤙! 
 
