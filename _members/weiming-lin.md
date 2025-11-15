@@ -2,7 +2,7 @@
 name: WeiMing Lin (林炜明)
 image: images/memberImage/LINWEIMING.jpg
 description: Research Assistant
-role: undergrad
+role: programmer
 links:
   github: 
 ---

@@ -2,7 +2,7 @@
 name: Ge Xu (徐歌)
 image: images/memberImage/XUGE.jpg
 description: Alumni
-role: mascot
+role: undergrad
 group: alum
 links:
   github: 
