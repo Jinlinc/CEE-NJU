@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1098/rspb.2025.1527
+  title: "A cryptic host\u2013parasitoid interaction reduces the impact of heatwaves\
+    \ on\n                    <i>Drosophila</i>\n                    host populations"
+  authors:
+  - Jinlin Chen
+  - Owen T. Lewis
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2025-11-01'
+  link: https://doi.org/hbhsrd
+  image: /images/paperImage/asobara.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/1365-2656.70112
   title: "Transgenerational effects increase the vulnerability of a host\u2013parasitoid\
     \ system to rising temperatures"
