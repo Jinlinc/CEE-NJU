@@ -10,4 +10,4 @@ This was our group's first attempt at an insect biodiversity survey. The rain ha
 <img src="XJZ1.jpg" alt="group photo" width="700" style="display: block; margin: auto;">
 <img src="XJZ2.jpg" alt="mud" width="700" style="display: block; margin: auto;">
 <img src="XJZ3.jpg" alt="mud 2" width="700" style="display: block; margin: auto;">
-<video src="XJZ3.mp4" width="700" controls autoplay loop muted style="display: block; margin: auto;"></video>
+<video src="XJZ4.mp4" width="700" controls autoplay loop muted style="display: block; margin: auto;"></video>
