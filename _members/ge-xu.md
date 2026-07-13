@@ -1,7 +1,7 @@
 ---
 name: Ge Xu (徐歌)
 image: images/memberImage/XUGE.jpg
-description: (Alumni) Intern 2025
+description: Intern 2025
 role: programmer
 group: alum
 links:
