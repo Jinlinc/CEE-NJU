@@ -16,6 +16,8 @@ nav:
 {% include list.html data="members" component="portrait" filter="name == 'Jie Hui (惠洁)'" %}
 {% include list.html data="members" component="portrait" filter="name == 'Chen Tian (田琛)'" %}
 
+<br>
+
 {% include list.html data="members" component="portrait" filter="group == 'alum'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}

@@ -2,7 +2,7 @@
 name: Jamal Holle
 image: images/memberImage/JHOLLE.jpg
 description: (Alumni) Visiting researcher 2025-2026
-role: postdoc
+role: programmer
 group: alum
 links:
 
