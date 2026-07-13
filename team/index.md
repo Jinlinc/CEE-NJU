@@ -14,6 +14,7 @@ nav:
 {% include list.html data="members" component="portrait" filter="name == 'ZeRu Gong (宫泽儒)'" %}
 {% include list.html data="members" component="portrait" filter="name == 'Jie Hui (惠洁)'" %}
 {% include list.html data="members" component="portrait" filter="name == 'Chen Tian (田琛)'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Jiayi Liu (刘佳艺)'" %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}
