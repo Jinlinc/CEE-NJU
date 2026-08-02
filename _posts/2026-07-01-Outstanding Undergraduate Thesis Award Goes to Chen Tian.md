@@ -12,4 +12,4 @@ Chen took full ownership of the project from the very beginning. He established 
 His findings has offer valuable new insights into thermal responses in inter-connected biological communities, and we are excited to see where his research journey takes him next. Congratulations to Chen on this well‑deserved recognition and happy Graduation!
 
 
-<img src="TC-biye.jpg" alt="Tian Chen graduation" width="700" style="display: block; margin: auto;">
+<img src="TC-biye.jpg" alt="Tian Chen graduation" width="400" style="display: block; margin: auto;">
