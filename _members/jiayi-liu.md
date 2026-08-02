@@ -3,6 +3,7 @@ name: Jiayi Liu (刘佳艺)
 image: images/memberImage/LIUJIAYI.jpg
 description: Intern 2026
 role: programmer
+group: alum
 links:
 
 ---
