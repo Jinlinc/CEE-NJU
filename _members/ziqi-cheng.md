@@ -1,6 +1,6 @@
 ---
 name: ZiQi Cheng (程子淇)
-image: images/memberImage/CHENGZIQI.jpg
+image: images/memberImage/CHENGZIQI.png
 description: Undergrad 2025
 role: programmer
 links:
