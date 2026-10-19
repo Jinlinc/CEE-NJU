@@ -1,6 +1,6 @@
 ---
 name: YanYu Chen (陈彦羽)
-image: images/memberImage/CHENYANYU.png
+image: images/memberImage/CHENYANYU.jpg
 description: Undergrad 2025
 role: programmer
 links:

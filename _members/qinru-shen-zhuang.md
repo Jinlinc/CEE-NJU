@@ -1,6 +1,6 @@
 ---
 name: QinRu Shen-Zhuang (沈庄沁儒)
-image: images/memberImage/SHENZHUANGQINRU.png
+image: images/memberImage/SHENZHUANGQINRU.jpg
 description: Master 2026
 role: phd
 links:
