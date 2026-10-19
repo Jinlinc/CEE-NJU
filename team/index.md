@@ -5,6 +5,10 @@ nav:
   tooltip: About our team
 ---
 
+<style>
+  .portrait { width: 165px; margin: 12px; }
+</style>
+
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 {% include section.html %}
