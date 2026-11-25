@@ -14,6 +14,7 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Cheng Jin (金诚)'" %}
 {% include list.html data="members" component="portrait" filter="name == 'WeiMing Lin (林炜明)'" %}
 {% include list.html data="members" component="portrait" filter="name == 'ZeRu Gong (宫泽儒)'" %}
 {% include list.html data="members" component="portrait" filter="name == 'Jie Hui (惠洁)'" %}
