@@ -1,5 +1,5 @@
 ---
-title: A Smashing Success: Our Lab Badminton Competition!
+title: A smashing success, our lab badminton competition!
 author: Jinlin-Chen
 tags:
   - student
