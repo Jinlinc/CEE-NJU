@@ -18,7 +18,7 @@ jobs:
     if: |
       github.repository == 'greenelab/lab-website-template' &&
       github.event_name == 'pull_request'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Debug dump
         if: runner.debug == '1'
@@ -92,7 +92,7 @@ jobs:
     if: |
       github.repository == 'greenelab/lab-website-template' &&
       github.event_name == 'push'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Debug dump
         if: runner.debug == '1'
