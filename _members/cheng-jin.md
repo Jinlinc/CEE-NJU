@@ -1,6 +1,6 @@
 ---
 name: Cheng Jin (金诚)
-image: images/memberImage/JINCHENG.png
+image: images/memberImage/JINCHENG.jpg
 description: Visiting researcher 2026-2027
 role: postdoc
 links:
